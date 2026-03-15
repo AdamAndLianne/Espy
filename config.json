@@ -1,13 +1,13 @@
 {
   "input": "./gallery",
   "output": "./build_output",
-  "title": "Our Cats!",
+  "title": "Our Cats! Espy and Ilini",
   "sort-albums-by": "title",
   "sort-media-by": "filename",
   "download-photos": "copy",
   "cleanup": true,
   "theme": "flow",
   "css": "./custom.css",
-  "footer": "Copyright Adam and Lianne",
+  "footer": "Copyright(c) Adam and Lianne. 2018-2026.",
   "usage-stats": false
 }
